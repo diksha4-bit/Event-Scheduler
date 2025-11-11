@@ -37,7 +37,8 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 **Data Flow:** Event data stored in a centralized reducer  
 **Calendar Integration:** AddEvent API for shareable calendar links  
 
-[User Interface] → [React Components] → [Context API/Reducer] → [Event Store] → [AddEvent API]
+![Uploading image.png…]()
+
 
 ---
 
