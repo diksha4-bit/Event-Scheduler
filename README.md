@@ -107,7 +107,9 @@ Through this internship at **Agratas Edutech**, I enhanced my knowledge of **fro
 ---
 
 👩‍💻 **Developed by:** *Diksha Thapliyal*  
-🎓 *MCA Student | Frontend Developer in Training*  
-📅 *Agratas Edutech Internship (June–August 2025)*
+🎓 *BCA Graduate*  
+💼 *Frontend Developer Intern – Agratas Edutech (June–August 2025)*
+
+
 
 
