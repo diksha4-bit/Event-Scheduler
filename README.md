@@ -37,7 +37,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 **Data Flow:** Event data stored in a centralized reducer  
 **Calendar Integration:** AddEvent API for shareable calendar links  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b94591a-df6d-4885-b7f2-824cbba5a4a0" />
+<img width="788" height="600" alt="image" src="https://github.com/user-attachments/assets/7b94591a-df6d-4885-b7f2-824cbba5a4a0" />
 
 ---
 
