@@ -1,6 +1,6 @@
 # 🗓️ Event Scheduler
 
-A responsive *React + TypeScript* web application that allows users to **create, view, edit, and manage events** efficiently.  
+A responsive **React + TypeScript** web application that allows users to **create, view, edit, and manage events** efficiently.  
 Built during my **internship at Agratas Edutech (June–August 2025)**, this project focuses on **real-world event management** with calendar integration and modern frontend technologies.
 
 ---
