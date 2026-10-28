@@ -106,6 +106,9 @@ Through this internship at **Agratas Edutech**, I enhanced my knowledge of **fro
 
 ---
 
+👩‍💻 Developed by: Diksha Thapliyal
+🎓 BCA Graduate
+💼 Frontend Developer Intern – Agratas Edutech (June–August 2025)
 
 
 
