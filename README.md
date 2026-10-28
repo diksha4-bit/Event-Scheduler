@@ -1,11 +1,11 @@
-# 🗓️ Event Scheduler
+# Event Scheduler
 
 A responsive **React + TypeScript** web application that allows users to **create, view, edit, and manage events** efficiently.  
 Built during my **internship at Agratas Edutech (June–August 2025)**, this project focuses on **real-world event management** with calendar integration and modern frontend technologies.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Create, Edit, Delete Events:** Users can add or modify event details such as title, date, time, location, and description.  
 - **State Management:** Implemented using React’s **Context API** with **useReducer** for global state handling.  
@@ -16,7 +16,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
@@ -30,7 +30,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 🧩 System Design Overview
+## System Design Overview
 
 **Frontend:** React components (UI + logic)  
 **State Layer:** Context API and Reducer pattern  
@@ -41,7 +41,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 👩‍💻 My Role & Responsibilities
+## My Role & Responsibilities
 
 - Planned app structure and component hierarchy.  
 - Designed UI using **React + Tailwind CSS**.  
@@ -52,7 +52,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 📈 Skills Gained
+## Skills Gained
 
 **Technical Skills:**
 - React Component Architecture
@@ -69,7 +69,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - User Authentication (JWT / OAuth)  
 - Cloud Backend (Firebase / Node.js)  
@@ -80,7 +80,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 - **Home Page** – Displays all created events  
 - **Add/Edit Event Form** – Form with TypeScript validation  
@@ -90,7 +90,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 📚 References
+## References
 
 - [React Docs](https://reactjs.org)  
 - [TypeScript Docs](https://www.typescriptlang.org)  
@@ -99,7 +99,7 @@ Built during my **internship at Agratas Edutech (June–August 2025)**, this pro
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 The **Event Scheduler** project provided practical experience in building scalable, responsive web applications.  
 Through this internship at **Agratas Edutech**, I enhanced my knowledge of **frontend frameworks, state management, and real-world UI/UX practices**, preparing me for a professional role as a **Frontend Developer**.
